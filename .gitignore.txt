@@ -1,0 +1,38 @@
+# =========================
+# Spring Boot / Java
+# =========================
+
+BlogApplication/target/
+BlogApplication/.classpath
+BlogApplication/.project
+BlogApplication/.settings/
+
+# Environment / secrets
+BlogApplication/.env
+
+# =========================
+# React / Node
+# =========================
+
+frontend/**/node_modules/
+frontend/**/dist/
+frontend/**/.vite/
+
+# =========================
+# VS Code
+# =========================
+
+frontend/**/.vscode/
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
